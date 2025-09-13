@@ -53,3 +53,5 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /WebAPI/.vs/WebAPI
+/WebAPI/.vs/ProjectEvaluation
+/WebAPI/WebAPI.Web/WebAPI.Web.csproj.user
